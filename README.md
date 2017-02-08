@@ -135,7 +135,7 @@ as opposed to lane markings which can be much sporadic.
 
 ### Video output
 
-Here's a link to the video output: [Project video](https://youtu.be/GgDEE5CProU)
+Here's a link to the video output: [Project video](https://youtu.be/3V_C0HZuKMw)
 
 
 ## Discussion
